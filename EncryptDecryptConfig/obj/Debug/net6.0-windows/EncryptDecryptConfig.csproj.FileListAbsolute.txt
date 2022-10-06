@@ -1,0 +1,17 @@
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\bin\Debug\net6.0-windows\EncryptDecryptConfig.exe
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\bin\Debug\net6.0-windows\EncryptDecryptConfig.deps.json
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\bin\Debug\net6.0-windows\EncryptDecryptConfig.runtimeconfig.json
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\bin\Debug\net6.0-windows\EncryptDecryptConfig.dll
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\bin\Debug\net6.0-windows\EncryptDecryptConfig.pdb
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\obj\Debug\net6.0-windows\EncryptDecryptConfig.csproj.AssemblyReference.cache
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\obj\Debug\net6.0-windows\EncryptDecryptConfig.Form1.resources
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\obj\Debug\net6.0-windows\EncryptDecryptConfig.csproj.GenerateResource.cache
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\obj\Debug\net6.0-windows\EncryptDecryptConfig.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\obj\Debug\net6.0-windows\EncryptDecryptConfig.AssemblyInfoInputs.cache
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\obj\Debug\net6.0-windows\EncryptDecryptConfig.AssemblyInfo.cs
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\obj\Debug\net6.0-windows\EncryptDecryptConfig.csproj.CoreCompileInputs.cache
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\obj\Debug\net6.0-windows\EncryptDecryptConfig.dll
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\obj\Debug\net6.0-windows\refint\EncryptDecryptConfig.dll
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\obj\Debug\net6.0-windows\EncryptDecryptConfig.pdb
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\obj\Debug\net6.0-windows\EncryptDecryptConfig.genruntimeconfig.cache
+D:\GitHub\EncryptDecryptConfig\EncryptDecryptConfig\obj\Debug\net6.0-windows\ref\EncryptDecryptConfig.dll

@@ -1,0 +1,7 @@
+D:\Publish\EncryptDecryptConfig\EncryptDecryptConfig.pdb
+D:\Publish\EncryptDecryptConfig\D3DCompiler_47_cor3.dll
+D:\Publish\EncryptDecryptConfig\PenImc_cor3.dll
+D:\Publish\EncryptDecryptConfig\PresentationNative_cor3.dll
+D:\Publish\EncryptDecryptConfig\vcruntime140_cor3.dll
+D:\Publish\EncryptDecryptConfig\wpfgfx_cor3.dll
+D:\Publish\EncryptDecryptConfig\EncryptDecryptConfig.exe

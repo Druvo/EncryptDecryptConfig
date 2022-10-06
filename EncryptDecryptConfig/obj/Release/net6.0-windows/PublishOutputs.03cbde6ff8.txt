@@ -1,0 +1,5 @@
+D:\Publish\EncryptDecryptConfig\EncryptDecryptConfig.exe
+D:\Publish\EncryptDecryptConfig\EncryptDecryptConfig.dll
+D:\Publish\EncryptDecryptConfig\EncryptDecryptConfig.deps.json
+D:\Publish\EncryptDecryptConfig\EncryptDecryptConfig.runtimeconfig.json
+D:\Publish\EncryptDecryptConfig\EncryptDecryptConfig.pdb

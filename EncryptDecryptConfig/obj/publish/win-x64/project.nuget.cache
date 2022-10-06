@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9aynKsl3mYLZheYPhqaMzyqhpawyCpStF5304dETua+CQmUDSyNXs5+fvyLvjUcQYYYfISyEnhEkrC6ZmYDBYQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\EncryptDecryptConfig\\EncryptDecryptConfig\\EncryptDecryptConfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid.hasan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.9\\microsoft.netcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\zahid.hasan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\zahid.hasan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\zahid.hasan\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.9\\microsoft.netcore.app.crossgen2.win-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
